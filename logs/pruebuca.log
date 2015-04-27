@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 431653
 
 B 200 12:15:19.258 FLUJO OLD state 4 STATE_CONNECTED, NEW 5 STATE_ROUTED
@@ -293,3 +294,6 @@ A -2  12:38:43.989 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad valu
 
 
 
+=======
+la pruebuca
+>>>>>>> a27712bd12bb460b3daec762d811120f6ed8fae4
