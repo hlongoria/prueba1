@@ -1,0 +1,295 @@
+431653
+
+B 200 12:15:19.258 FLUJO OLD state 4 STATE_CONNECTED, NEW 5 STATE_ROUTED
+B 532 12:15:19.259 FLUJO Bridge ok, xfer( 532) <-- --> dlr( 200), type (196)
+A 275 12:18:56.256 GC    ok -> gc_MakeCall( 1179, .., NULL, 018000212345, 33, EV_ASYNC ) -> 134218178
+A 200 12:19:06.382 FUNCS Channel->conferenceAgent
+
+
+
+
+A -2  06:27:55.826 CONFE ok -> dcb_open( dcbB1D1 )
+
+A -2  08:28:10.024 CONFE Availables resource for dsp(1): 57
+A -2  08:28:10.087 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179649
+A -2  08:28:10.300 CONFE ok -> dcb_addtoconf( 1, 1179649 ) -> 5254
+B -2  08:35:57.253 CONFE ok -> dcb_delconf
+
+A -2  08:53:08.152 CONFE Availables resource for dsp(1): 57
+A -2  08:53:08.214 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179650
+A -2  08:53:08.439 CONFE ok -> dcb_addtoconf( 1, 1179650 ) -> 5254
+A -2  08:54:46.707 CONFE ok -> dcb_delconf
+
+A -2  08:55:10.398 CONFE Availables resource for dsp(1): 57
+A -2  08:55:10.461 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179651
+A -2  08:55:10.667 CONFE ok -> dcb_addtoconf( 1, 1179651 ) -> 5254
+A -2  08:56:31.115 CONFE ok -> dcb_delconf
+
+A -2  09:04:33.768 CONFE Availables resource for dsp(1): 57
+A -2  09:04:33.818 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179652
+A -2  09:04:34.009 CONFE ok -> dcb_addtoconf( 1, 1179652 ) -> 5254
+A -2  09:05:53.269 CONFE ok -> dcb_delconf
+
+A -2  09:11:44.344 CONFE Availables resource for dsp(1): 57
+A -2  09:11:44.407 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179653
+A -2  09:11:44.638 CONFE ok -> dcb_addtoconf( 1, 1179653 ) -> 5254
+A -2  09:11:45.607 CONFE ok -> dcb_delconf
+
+A -2  09:21:07.573 CONFE Availables resource for dsp(1): 57
+A -2  09:21:07.636 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179654
+A -2  09:21:07.844 CONFE ok -> dcb_addtoconf( 1, 1179654 ) -> 5254
+A -2  09:23:12.022 CONFE ok -> dcb_delconf
+
+A -2  09:23:47.745 CONFE Availables resource for dsp(1): 57
+A -2  09:23:47.807 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179655
+A -2  09:23:48.030 CONFE ok -> dcb_addtoconf( 1, 1179655 ) -> 5254
+A -2  09:25:28.570 CONFE ok -> dcb_delconf
+
+A -2  09:26:18.986 CONFE Availables resource for dsp(1): 57
+A -2  09:26:19.031 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179656
+A -2  09:26:19.255 CONFE ok -> dcb_addtoconf( 1, 1179656 ) -> 5254
+A -2  09:29:47.092 CONFE ok -> dcb_delconf
+
+A -2  09:36:12.366 CONFE Availables resource for dsp(1): 57
+A -2  09:36:12.416 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179657
+A -2  09:36:12.623 CONFE ok -> dcb_addtoconf( 1, 1179657 ) -> 5254
+A -2  09:38:04.540 CONFE ok -> dcb_delconf
+
+	A -2  09:36:36.827 CONFE Availables resource for dsp(1): 53
+	A -2  09:36:36.897 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179658
+	A -2  09:36:37.099 CONFE ok -> dcb_addtoconf( 1, 1179658 ) -> 5258
+	A -2  09:38:49.067 CONFE ok -> dcb_delconf
+
+	A -2  09:38:33.892 CONFE Availables resource for dsp(1): 53
+	A -2  09:38:33.942 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179659
+	A -2  09:38:34.148 CONFE ok -> dcb_addtoconf( 1, 1179659 ) -> 5254
+	A -2  09:39:58.273 CONFE ok -> dcb_delconf
+
+	A -2  09:39:15.448 CONFE Availables resource for dsp(1): 53
+	A -2  09:39:15.498 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179660
+	A -2  09:39:15.705 CONFE ok -> dcb_addtoconf( 1, 1179660 ) -> 5258
+	A -2  09:40:20.754 CONFE ok -> dcb_delconf
+
+A -2  10:07:51.422 CONFE Availables resource for dsp(1): 57
+A -2  10:07:51.486 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179661
+A -2  10:07:51.681 CONFE ok -> dcb_addtoconf( 1, 1179661 ) -> 5254
+A -2  10:08:30.753 CONFE ok -> dcb_delconf
+
+	A -2  10:08:03.702 CONFE Availables resource for dsp(1): 53
+	A -2  10:08:03.765 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179662
+	A -2  10:08:03.992 CONFE ok -> dcb_addtoconf( 1, 1179662 ) -> 5258
+	A -2  10:08:20.982 CONFE ok -> dcb_delconf
+
+A -2  10:19:22.232 CONFE Availables resource for dsp(1): 57
+A -2  10:19:22.276 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179663
+A -2  10:19:22.516 CONFE ok -> dcb_addtoconf( 1, 1179663 ) -> 5254
+A -2  10:20:24.873 CONFE ok -> dcb_delconf
+
+A -2  10:21:10.896 CONFE Availables resource for dsp(1): 57
+A -2  10:21:10.941 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179664
+A -2  10:21:11.153 CONFE ok -> dcb_addtoconf( 1, 1179664 ) -> 5254
+A -2  10:23:22.525 CONFE ok -> dcb_delconf
+	
+	A -2  10:21:22.751 CONFE Availables resource for dsp(1): 53
+	A -2  10:21:22.802 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179665
+	A -2  10:21:23.008 CONFE ok -> dcb_addtoconf( 1, 1179665 ) -> 5258
+	A -2  10:22:37.554 CONFE ok -> dcb_delconf
+
+	A -2  10:22:56.201 CONFE Availables resource for dsp(1): 53
+	A -2  10:22:56.265 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179666
+	A -2  10:22:56.475 CONFE ok -> dcb_addtoconf( 1, 1179666 ) -> 5258
+	A -2  10:23:25.245 CONFE ok -> dcb_delconf
+
+A -2  10:25:20.223 CONFE Availables resource for dsp(1): 57
+A -2  10:25:20.273 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179667
+A -2  10:25:20.469 CONFE ok -> dcb_addtoconf( 1, 1179667 ) -> 5254
+A -2  10:27:11.775 CONFE ok -> dcb_delconf
+
+A -2  10:28:48.870 CONFE Availables resource for dsp(1): 57
+A -2  10:28:48.936 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179668
+A -2  10:28:49.178 CONFE ok -> dcb_addtoconf( 1, 1179668 ) -> 5254
+A -2  10:30:26.819 CONFE ok -> dcb_delconf
+
+A -2  10:38:10.764 CONFE Availables resource for dsp(1): 57
+A -2  10:38:10.814 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179669
+A -2  10:38:11.056 CONFE ok -> dcb_addtoconf( 1, 1179669 ) -> 5254
+A -2  10:40:39.066 CONFE ok -> dcb_delconf
+
+	A -2  10:39:34.365 CONFE Availables resource for dsp(1): 53
+	A -2  10:39:34.428 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179670
+	A -2  10:39:34.649 CONFE ok -> dcb_addtoconf( 1, 1179670 ) -> 5258
+	A -2  10:40:02.546 CONFE ok -> dcb_delconf
+
+A -2  10:41:50.802 CONFE Availables resource for dsp(1): 57
+A -2  10:41:50.867 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179671
+A -2  10:41:51.085 CONFE ok -> dcb_addtoconf( 1, 1179671 ) -> 5254
+A -2  10:42:11.152 CONFE ok -> dcb_delconf
+
+A -2  10:49:23.534 CONFE Availables resource for dsp(1): 57
+A -2  10:49:23.597 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179672
+A -2  10:49:23.794 CONFE ok -> dcb_addtoconf( 1, 1179672 ) -> 5254
+A -2  10:50:27.012 CONFE ok -> dcb_delconf
+
+A -2  10:52:28.024 CONFE Availables resource for dsp(1): 57
+A -2  10:52:28.067 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179673
+A -2  10:52:28.280 CONFE ok -> dcb_addtoconf( 1, 1179673 ) -> 5254
+A -2  10:54:05.840 CONFE ok -> dcb_delconf
+
+	A -2  10:53:13.784 CONFE Availables resource for dsp(1): 53
+	A -2  10:53:13.846 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179674
+	A -2  10:53:14.061 CONFE ok -> dcb_addtoconf( 1, 1179674 ) -> 5258
+	A -2  10:54:24.431 CONFE ok -> dcb_delconf
+
+A -2  10:55:55.223 CONFE Availables resource for dsp(1): 57
+A -2  10:55:55.274 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179675
+A -2  10:55:55.481 CONFE ok -> dcb_addtoconf( 1, 1179675 ) -> 5254
+A -2  10:59:29.505 CONFE ok -> dcb_delconf
+
+A -2  11:08:16.041 CONFE Availables resource for dsp(1): 57
+A -2  11:08:16.104 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179676
+A -2  11:08:16.317 CONFE ok -> dcb_addtoconf( 1, 1179676 ) -> 5254
+A -2  11:10:17.333 CONFE ok -> dcb_delconf
+
+A -2  11:10:38.722 CONFE Availables resource for dsp(1): 57
+A -2  11:10:38.774 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179677
+A -2  11:10:38.979 CONFE ok -> dcb_addtoconf( 1, 1179677 ) -> 5254
+A -2  11:12:43.799 CONFE ok -> dcb_delconf
+
+	A -2  11:11:35.350 CONFE Availables resource for dsp(1): 53
+	A -2  11:11:35.407 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179649
+	A -2  11:11:35.570 CONFE ok -> dcb_addtoconf( 1, 1179649 ) -> 5258
+	B -2  11:14:04.838 CONFE ok -> dcb_delconf
+
+A -2  11:16:59.947 CONFE Availables resource for dsp(1): 57
+A -2  11:17:00.011 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179650
+A -2  11:17:00.234 CONFE ok -> dcb_addtoconf( 1, 1179650 ) -> 5254
+A -2  11:19:11.676 CONFE ok -> dcb_delconf
+
+A -2  11:19:47.685 CONFE Availables resource for dsp(1): 57
+A -2  11:19:47.735 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179651
+A -2  11:19:47.951 CONFE ok -> dcb_addtoconf( 1, 1179651 ) -> 5254
+A -2  11:20:36.283 CONFE ok -> dcb_delconf
+
+A -2  11:24:49.495 CONFE Availables resource for dsp(1): 57
+A -2  11:24:49.558 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179652
+A -2  11:24:49.768 CONFE ok -> dcb_addtoconf( 1, 1179652 ) -> 5254
+A -2  11:28:10.457 CONFE ok -> dcb_delconf
+
+A -2  11:34:01.820 CONFE Availables resource for dsp(1): 57
+A -2  11:34:01.883 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179653
+A -2  11:34:02.096 CONFE ok -> dcb_addtoconf( 1, 1179653 ) -> 5254
+A -2  11:34:18.326 CONFE ok -> dcb_delconf
+
+A -2  11:34:20.769 CONFE Availables resource for dsp(1): 57
+A -2  11:34:20.819 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179654
+A -2  11:34:21.065 CONFE ok -> dcb_addtoconf( 1, 1179654 ) -> 5254
+A -2  11:34:58.942 CONFE ok -> dcb_delconf
+
+	A -2  11:34:43.565 CONFE Availables resource for dsp(1): 53
+	A -2  11:34:43.628 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179655
+	A -2  11:34:43.837 CONFE ok -> dcb_addtoconf( 1, 1179655 ) -> 5258
+	A -2  11:36:20.554 CONFE ok -> dcb_delconf
+	
+	A -2  11:35:21.263 CONFE Availables resource for dsp(1): 53 - 21
+	A -2  11:35:21.326 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179656
+	A -2  11:35:21.540 CONFE ok -> dcb_addtoconf( 1, 1179656 ) -> 5254
+	A -2  11:40:28.983 CONFE ok -> dcb_delconf
+
+	A -2  11:37:06.653 CONFE Availables resource for dsp(1): 53 - 89
+	A -2  11:37:06.715 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179657
+	A -2  11:37:07.053 CONFE ok -> dcb_addtoconf( 1, 1179658 ) -> 5262
+	A -2  11:40:31.006 CONFE ok -> dcb_delconf
+
+		A -2  11:37:06.809 CONFE Availables resource for dsp(1): 50 - 192
+		A -2  11:37:06.859 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179658
+		A -2  11:37:06.961 CONFE ok -> dcb_addtoconf( 1, 1179657 ) -> 5261
+		A -2  11:40:27.668 CONFE ok -> dcb_delconf
+
+			A -2  11:38:42.973 CONFE Availables resource for dsp(1): 45 - 191
+			A -2  11:38:43.024 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179660
+			A -2  11:38:43.260 CONFE ok -> dcb_addtoconf( 1, 1179660 ) -> 5266
+			A -2  11:39:58.445 CONFE ok -> dcb_delconf
+
+A -2  11:40:41.472 CONFE Availables resource for dsp(1): 57 - 159
+A -2  11:40:41.521 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179659
+A -2  11:40:41.745 CONFE ok -> dcb_addtoconf( 1, 1179659 ) -> 5254
+A -2  11:41:10.863 CONFE ok -> dcb_delconf
+
+A -2  11:41:14.695 CONFE Availables resource for dsp(1): 57 - 192
+A -2  11:41:14.764 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179662
+A -2  11:41:14.963 CONFE ok -> dcb_addtoconf( 1, 1179662 ) -> 5254
+A -2  11:42:31.581 CONFE ok -> dcb_delconf
+
+A -2  11:43:44.924 CONFE Availables resource for dsp(1): 57 -89
+A -2  11:43:44.987 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179661
+A -2  11:43:45.200 CONFE ok -> dcb_addtoconf( 1, 1179661 ) -> 5254
+B -2  11:47:46.691 CONFE ok -> dcb_delconf
+
+A -2  11:54:28.577 CONFE Availables resource for dsp(1): 57 -41
+A -2  11:54:28.645 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179663
+A -2  11:54:28.865 CONFE ok -> dcb_addtoconf( 1, 1179663 ) -> 5254
+A -2  11:55:25.155 CONFE ok -> dcb_delconf
+
+A -2  11:58:33.114 CONFE Availables resource for dsp(1): 57 -79
+A -2  11:58:33.164 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179665
+A -2  11:58:33.370 CONFE ok -> dcb_addtoconf( 1, 1179665 ) -> 5254
+A -2  11:58:59.672 CONFE ok -> dcb_delconf
+
+A -2  12:02:40.414 CONFE Availables resource for dsp(1): 57 -195
+A -2  12:02:40.484 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179664
+A -2  12:02:40.678 CONFE ok -> dcb_addtoconf( 1, 1179664 ) -> 5254
+A -2  12:02:47.644 CONFE ok -> dcb_delconf
+
+A -2  12:03:38.747 CONFE Availables resource for dsp(1): 57 -139
+A -2  12:03:38.811 CONFE ok -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> 1179666
+B -2  12:03:38.864 CONFE ok -> dcb_addtoconf( 1, 1179666 ) -> 5254
+A -2  12:05:48.608 CONFE ok -> dcb_delconf
+
+A -2  12:07:17.716 CONFE Availables resource for dsp(1): 57 -190
+A -2  12:07:17.783 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:09:30.138 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -139
+
+A -2  12:13:59.226 CONFE Availables resource for dsp(1): 55 -84
+A -2  12:13:59.292 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:16:53.998 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -84
+
+A -2  12:18:59.208 CONFE Availables resource for dsp(1): 54 -144
+A -2  12:18:59.254 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:19:06.395 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -200
+
+A -2  12:21:06.320 CONFE Availables resource for dsp(1): 53 -2
+A -2  12:21:06.375 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:21:29.340 CONFE er -> dcb_dsprescount( 1 ) -> Bad value
+
+A -2  12:26:20.134 CONFE Availables resource for dsp(1): 52 -192
+A -2  12:26:20.180 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:28:54.413 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -28
+
+A -2  12:29:21.001 CONFE Availables resource for dsp(1): 51 -123
+A -2  12:29:21.061 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:31:55.504 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -28
+
+A -2  12:31:58.411 CONFE Availables resource for dsp(1): 50 -109
+A -2  12:31:58.464 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:33:55.576 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -41
+
+A -2  12:35:35.016 CONFE Availables resource for dsp(1): 49 -147
+A -2  12:35:35.066 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+A -2  12:38:14.976 CONFE er -> dcb_dsprescount( 1 ) -> Bad value -55
+
+A -2  12:38:43.937 CONFE Availables resource for dsp(1): 48 -29
+A -2  12:38:43.989 CONFE er -> dcb_estconf( 1, .., 3, MSCA_NULL, ..) -> Bad value
+
+
+
+
+
+
